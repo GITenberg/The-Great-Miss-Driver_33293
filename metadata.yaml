@@ -1,0 +1,34 @@
+_repo: The-Great-Miss-Driver_33293
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33293-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hope, Anthony
+    alias: Hawkins, Anthony Hope
+    birthdate: 1863
+    deathdate: 1933
+    gutenberg_agent_id: '63'
+    url: http://www.gutenberg.org/2009/agents/63
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Hope
+description: This 1908 society novel features a young girl named Jenny the Great Miss
+  Driver of the title who, upon the death of her father, suddenly finds herself in
+  possession of a fortune and an overabundance of suitors keen to help her dispose
+  of it. Jenny becomes a hero in her own right by defending her own plan for the money.
+gutenberg_issued: '2010-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33293'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Private secretaries -- Fiction'
+- !lcsh 'Elopement -- Fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+title: The Great Miss Driver
+url: http://www.gutenberg.org/ebooks/33293
